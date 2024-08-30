@@ -4,7 +4,7 @@
 
 ;; Author: Xu Chunyang
 ;; Homepage: https://github.com/xuchunyang/helm-osx-app
-;; Package-Requires: ((emacs "25.1") (helm-core "3.0"))
+;; Package-Requires: ((emacs "25.1") (helm "3.0"))
 ;; Created: 2019/7/7 深夜
 ;; Version: 1.0
 
